@@ -1,4 +1,4 @@
-# Flux 
+# Flux on GitHub
 
 An application architecture for React
 
